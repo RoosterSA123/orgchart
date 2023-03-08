@@ -1,7 +1,7 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 Dave Rooster,https://ca.slack-edge.com/T743LN7CK-U01MT94SUCB-0d9e62567bc8-512,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,1,,
-Adrian,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,2,1,
-Adeolu,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,3,1,
-Kennedy,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,4,1,
-Albert,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,5,1,
-Michael,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,6,5,
+Adrian,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,SRE Manager ,2,1,
+Adeolu,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CNSE Manager ,3,1,
+Kennedy,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,SRE Manager ,4,1,
+Albert,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,Platform Manager ,5,1,
+Michael,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,Senior SRE ,6,5,
