@@ -17,7 +17,7 @@
     <script>
       var chart;
       d3.csv(
-        'https://github.com/RoosterSA123/orgchart.git'
+        'https://raw.githubusercontent.com/RoosterSA123/orgchart/main/org.csv'
       ).then((dataFlattened) => {
         dataFlattened.forEach((d) => {
           const val = Math.round(d.name.length / 2);
